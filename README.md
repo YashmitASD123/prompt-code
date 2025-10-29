@@ -5,3 +5,5 @@
 # RUN
 
 `npm test`
+###                                             OR
+`npm start`
